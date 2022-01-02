@@ -7,7 +7,7 @@ public class PrintToConsole : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("I'm printing to the console");
     }
 
     // Update is called once per frame
